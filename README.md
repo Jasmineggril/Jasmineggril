@@ -1,12 +1,16 @@
-- 👋 Olá! Meu nome é Jasmine...
-- 👀 Estudante de suporte de ti (GOOGLE+CIEE), programação de web(SANAC), engenharia de software(UNDF)...
-- 🌱 Eu atualmente estou aprendendo ENGENHARIA DE SOFTWARE(UNDF)
-- 💞️ Eu estou buscando colaborar com o maximo de pessoas possiveis
-- 📫 IG_@jasmine.aarujo
-- 😄 Meus pronemes ela, dela, tudo no feminino
-- ⚡ Um fato engraçado gosto de cantar
+# Olá, eu sou Jasmine! 👋🏾
 
-<!---
-Jasmineggril/Jasmineggril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Engenharia de Software na Universidade do Distrito Federal (UnDF).
+
+💻 Estagiária de Tecnologia da Informação no Ministério das Relações Exteriores, com experiência em Power Apps, Power Automate e Dataverse.
+
+🔎 Criadora do protótipo Lupa Digital, uma solução que utiliza inteligência artificial para facilitar a compreensão de editais e documentos públicos.
+
+🚀 Tenho interesse em Inteligência Artificial, Engenharia de Software, Power Platform e tecnologia para impacto social.
+
+🌱 Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, automação e soluções baseadas em IA.
+
+🤝 Aberta a colaborações, projetos de inovação e oportunidades profissionais.
+
+📍 Brasília, DF — Brasil  
+👩🏾 Pronomes: ela/dela
